@@ -1,16 +1,20 @@
 # blu's
 
 hi
+
 i3, neovim, and tmux based on [theprimeagen's config](https://github.com/ThePrimeagen/.dotfiles)
+
 polybar from [UzutoNarumaki](https://www.reddit.com/r/unixporn/comments/zw9a1l/openbox_pink_archcraft/)
 
-##### sudo privliges
+## sudo privliges
 
 root -> `su -`
+
 give sudo -> `usermod -aG sudo myUsername`
+
 install sudo -> `apt instal sudo`
 
-##### update and install dependencies
+## update and install dependencies
 
 `sudo apt update`
 `sudo apt install ` :
@@ -34,24 +38,21 @@ install sudo -> `apt instal sudo`
 
 https://pwmt.org/projects/zathura/ (future)
 
-##### neovim
+## neovim
 https://github.com/wbthomason/packer.nvim
 
-##### theme(catppuccin)
+## theme(catppuccin)
 https://github.com/catppuccin/gtk
+
 https://github.com/catppuccin/kitty
+
 https://github.com/catppuccin/nvim
+
 https://github.com/catppuccin/firefox
+
 https://github.com/catppuccin/xresources
-zafiro dark icons
-	put in ~/.icons
+
+zafiro dark icons ---> put in ~/.icons
 Iosevka Nerd Fonts
 
-##### i3 desktops
-1 - fun
-2 - firefox
-3 - terminal
-4 - 
-5 - slack
-6 - gimp
 ![v1](https://user-images.githubusercontent.com/112275194/210031207-0eb552b1-9ab2-4614-812c-4779f372e460.png)
