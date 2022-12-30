@@ -1,10 +1,12 @@
-# blu's
+# my precious
 
-hi
+hi, wanna feel pawsome? here is pawsome catppuccin debian
 
 i3, neovim, and tmux based on [theprimeagen's config](https://github.com/ThePrimeagen/.dotfiles)
 
 polybar from [UzutoNarumaki](https://www.reddit.com/r/unixporn/comments/zw9a1l/openbox_pink_archcraft/)
+
+![v1](https://user-images.githubusercontent.com/112275194/210031207-0eb552b1-9ab2-4614-812c-4779f372e460.png)
 
 ## sudo privliges
 
@@ -54,5 +56,3 @@ https://github.com/catppuccin/xresources
 
 zafiro dark icons ---> put in ~/.icons
 Iosevka Nerd Fonts
-
-![v1](https://user-images.githubusercontent.com/112275194/210031207-0eb552b1-9ab2-4614-812c-4779f372e460.png)
