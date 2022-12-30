@@ -43,16 +43,20 @@ https://pwmt.org/projects/zathura/ (future)
 ## neovim
 https://github.com/wbthomason/packer.nvim
 
-## theme(catppuccin)
+## themes
+
+catppuccin
+
 https://github.com/catppuccin/gtk
 
 https://github.com/catppuccin/kitty
-
-https://github.com/catppuccin/nvim
 
 https://github.com/catppuccin/firefox
 
 https://github.com/catppuccin/xresources
 
+rose-pine --> https://github.com/rose-pine/neovim
+
 zafiro dark icons ---> put in ~/.icons
-Iosevka Nerd Fonts
+
+Iosevka Nerd Fonts ---> put in ~/.fonts
